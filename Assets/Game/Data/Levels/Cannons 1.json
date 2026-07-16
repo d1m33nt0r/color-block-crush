@@ -1,0 +1,29 @@
+{
+    "id": "Cannons 1",
+    "width": 3,
+    "height": 1,
+    "slotCount": 3,
+    "cannons": [
+        {
+            "x": 0,
+            "y": 0,
+            "color": 3,
+            "shots": 40,
+            "shootRate": 12.0
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "color": 3,
+            "shots": 40,
+            "shootRate": 12.0
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "color": 3,
+            "shots": 40,
+            "shootRate": 12.0
+        }
+    ]
+}

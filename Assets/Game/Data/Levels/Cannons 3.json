@@ -1,0 +1,148 @@
+{
+    "id": "Cannons 3",
+    "width": 4,
+    "height": 5,
+    "slotCount": 4,
+    "cannons": [
+        {
+            "x": 0,
+            "y": 0,
+            "color": 4,
+            "shots": 10,
+            "shootRate": 12.0
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "color": 6,
+            "shots": 10,
+            "shootRate": 12.0
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "color": 5,
+            "shots": 10,
+            "shootRate": 12.0
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "color": 6,
+            "shots": 10,
+            "shootRate": 12.0
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "color": 5,
+            "shots": 10,
+            "shootRate": 12.0
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "color": 4,
+            "shots": 10,
+            "shootRate": 12.0
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "color": 5,
+            "shots": 10,
+            "shootRate": 12.0
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "color": 6,
+            "shots": 10,
+            "shootRate": 12.0
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "color": 5,
+            "shots": 10,
+            "shootRate": 12.0
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "color": 6,
+            "shots": 10,
+            "shootRate": 12.0
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "color": 4,
+            "shots": 10,
+            "shootRate": 12.0
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "color": 2,
+            "shots": 20,
+            "shootRate": 12.0
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "color": 3,
+            "shots": 20,
+            "shootRate": 12.0
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "color": 2,
+            "shots": 20,
+            "shootRate": 12.0
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "color": 0,
+            "shots": 18,
+            "shootRate": 12.0
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "color": 7,
+            "shots": 12,
+            "shootRate": 12.0
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "color": 3,
+            "shots": 20,
+            "shootRate": 12.0
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "color": 2,
+            "shots": 20,
+            "shootRate": 12.0
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "color": 3,
+            "shots": 20,
+            "shootRate": 12.0
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "color": 0,
+            "shots": 18,
+            "shootRate": 12.0
+        }
+    ]
+}

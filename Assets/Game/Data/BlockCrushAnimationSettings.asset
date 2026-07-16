@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 431d05cb445fc9f49835ead2bdd220de, type: 3}
+  m_Name: BlockCrushAnimationSettings
+  m_EditorClassIdentifier: Assembly-CSharp::Game.BlockCrush.Shared.BlockCrushAnimationSettings
+  cellMoveDuration: 0.18
+  extraDurationPerCell: 0.035
+  cellMoveEase: 9
+  stackReflowDuration: 0.12
+  stackReflowEase: 27
+  destroyDuration: 0.1
+  destroyScaleMultiplier: 0.05
+  destroyEase: 26
+  neighborShakeDuration: 0.14
+  neighborShakeHorizontalStrength: 0.04
+  neighborShakeVerticalStrength: 0.01
+  neighborShakeVibrato: 6
+  neighborShakeEase: 6
+  cannonGridMoveDuration: 0.18
+  cannonExtraDurationPerCell: 0.035
+  cannonGridMoveEase: 9
+  cannonSlotMoveDuration: 0.2
+  cannonSlotMoveEase: 1
+  cannonShootDuration: 0.1
+  cannonShootPunchScale: 1.12
+  cannonShootEase: 6
+  cannonAimDuration: 0.0025
+  cannonAimEase: 9
+  cannonDisappearDuration: 0.18
+  cannonDisappearScaleMultiplier: 0.05
+  cannonDisappearEase: 26
+  bulletFlightDuration: 0.1
+  bulletFlightEase: 5
+  bulletScale: 1

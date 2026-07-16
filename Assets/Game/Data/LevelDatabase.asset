@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0c4ae0736b24178b316c2279020a00d, type: 3}
+  m_Name: LevelDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Scripts.Data.GameData.Levels.LevelDatabase
+  _levels:
+  - _blocksData: {fileID: 4900000, guid: 56c35614a14d3c54fa615936ac36ffac, type: 3}
+    _cannonsData: {fileID: 4900000, guid: c0236691a3293a747889b3b1707b4679, type: 3}
+  - _blocksData: {fileID: 4900000, guid: ebbb1f486c220a045b6f633843eda68a, type: 3}
+    _cannonsData: {fileID: 4900000, guid: 2418d539bbcd0fc4c84cb01aa11741d7, type: 3}
+  - _blocksData: {fileID: 4900000, guid: 3d80c11017e64e0429a79c5f0b3665c7, type: 3}
+    _cannonsData: {fileID: 4900000, guid: 313a98b6a639b2543a98787d84f814f5, type: 3}
+  - _blocksData: {fileID: 4900000, guid: 7370c76fc3c2d6d4abc4704ca944cfff, type: 3}
+    _cannonsData: {fileID: 4900000, guid: 8e3719aff1158384c90e91be3f9da06b, type: 3}
+  - _blocksData: {fileID: 4900000, guid: 43a8ff82849a11043a7cc137dfe0ceb3, type: 3}
+    _cannonsData: {fileID: 4900000, guid: c963783e1dac8a245b1fe210492a9bdd, type: 3}
