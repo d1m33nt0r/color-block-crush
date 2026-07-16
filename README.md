@@ -17,10 +17,6 @@ Unity implementation of a hyper-casual color block puzzle/shooter inspired by
 data-driven level setup, modular gameplay code, Zenject factories, DOTween
 animations, and custom Unity editor tooling for level authoring.
 
-## Gameplay Demo
-
-
-
 ## Development Time
 
 Estimated implementation time: **28 hours**.
