@@ -1,0 +1,43 @@
+Proprietary Source-Available License
+
+Copyright (c) 2026 d1m33nt0r.
+All rights reserved.
+
+This repository and its original source code, project files, scenes, prefabs,
+configuration files, documentation, and other original project materials are
+provided for review and evaluation purposes only.
+
+No permission is granted to use this project or any portion of its original
+source code in another project, product, service, prototype, demo, commercial
+work, educational work, portfolio work, or derivative work without prior
+written permission from the copyright holder.
+
+Without prior written permission, you may not:
+
+1. copy, reproduce, publish, distribute, sublicense, sell, lease, or otherwise
+   transfer any part of the original source code or project materials;
+2. modify, adapt, translate, merge, refactor, port, or create derivative works
+   based on the original source code or project materials;
+3. use the original source code or project materials to build, train, ship,
+   demonstrate, or operate any software, game, tool, service, or product;
+4. remove or alter copyright notices, license notices, attribution notices, or
+   ownership notices;
+5. use the repository contents in a way that implies endorsement, partnership,
+   employment, assignment ownership, or transfer of rights.
+
+If this repository is hosted on a platform that grants limited platform-level
+rights to view or fork repositories through its terms of service, those platform
+rights do not grant any additional license to use, copy, modify, distribute, or
+create derivative works from this project.
+
+Third-party assets, plugins, packages, fonts, audio, shaders, and other external
+materials included in or referenced by this repository are not covered by this
+license. They remain governed by their own license terms, store terms, package
+terms, or copyright notices.
+
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE PROJECT OR THE USE OR OTHER DEALINGS IN THE
+PROJECT.

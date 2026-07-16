@@ -9,6 +9,16 @@ animations, and custom Unity editor tooling for level authoring.
 
 Estimated implementation time: **28 hours**.
 
+## License
+
+This repository is **source-available, not open-source**. The original project
+code and project materials are provided for review/evaluation only and may not
+be used, copied, modified, distributed, or reused in another project without
+prior written permission.
+
+See [LICENSE](LICENSE) for the full terms. Third-party assets and plugins remain
+governed by their own licenses and package terms.
+
 ## Project Overview
 
 The game consists of two connected boards:
