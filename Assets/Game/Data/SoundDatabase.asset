@@ -1,0 +1,396 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832ecd5c36684c42935722862754c399, type: 3}
+  m_Name: SoundDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Scripts.Core.Common.Sound.Data.SoundDatabase
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 8300000, guid: d7e29954d97dee042b32416b4087a5b0, type: 3}
+    - {fileID: 8300000, guid: f3bd8066612df7146aae8a1b454ed39a, type: 3}
+    - {fileID: 8300000, guid: 5e15e82c1aaaf6a48b955f6c26918c06, type: 3}
+    - {fileID: 8300000, guid: 7121be74327c0f844a661f443ac7c680, type: 3}
+    - {fileID: 8300000, guid: 90c60825102952f459ea7f7cc311e60d, type: 3}
+    - {fileID: 8300000, guid: 9bcf624d6b970dc4088ff73e87040860, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: soundsData
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[Game.Scripts.Core.Common.Sound.Data.SoundKey,
+        Assembly-CSharp],[Game.Scripts.Core.Common.Sound.Data.SoundData, Assembly-CSharp]],
+        mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[Game.Scripts.Core.Common.Sound.Data.SoundKey,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 7
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 7
+      Data: 2|Game.Scripts.Core.Common.Sound.Data.SoundData, Assembly-CSharp
+    - Name: _soundPlayerParams
+      Entry: 7
+      Data: 3|Game.Scripts.Core.Common.Sound.Data.SoundPlayerParams, Assembly-CSharp
+    - Name: _isLoop
+      Entry: 5
+      Data: false
+    - Name: _consistentMode
+      Entry: 5
+      Data: false
+    - Name: _volume
+      Entry: 4
+      Data: 1
+    - Name: _playOnAwake
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: _soundList
+      Entry: 7
+      Data: 4|System.Collections.Generic.List`1[[UnityEngine.AudioClip, UnityEngine.AudioModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: 5|Game.Scripts.Core.Common.Sound.Data.SoundData, Assembly-CSharp
+    - Name: _soundPlayerParams
+      Entry: 7
+      Data: 6|Game.Scripts.Core.Common.Sound.Data.SoundPlayerParams, Assembly-CSharp
+    - Name: _isLoop
+      Entry: 5
+      Data: false
+    - Name: _consistentMode
+      Entry: 5
+      Data: false
+    - Name: _volume
+      Entry: 4
+      Data: 1
+    - Name: _playOnAwake
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: _soundList
+      Entry: 7
+      Data: 7|System.Collections.Generic.List`1[[UnityEngine.AudioClip, UnityEngine.AudioModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 7
+      Data: 8|Game.Scripts.Core.Common.Sound.Data.SoundData, Assembly-CSharp
+    - Name: _soundPlayerParams
+      Entry: 7
+      Data: 9|Game.Scripts.Core.Common.Sound.Data.SoundPlayerParams, Assembly-CSharp
+    - Name: _isLoop
+      Entry: 5
+      Data: false
+    - Name: _consistentMode
+      Entry: 5
+      Data: false
+    - Name: _volume
+      Entry: 4
+      Data: 0.27
+    - Name: _playOnAwake
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: _soundList
+      Entry: 7
+      Data: 10|System.Collections.Generic.List`1[[UnityEngine.AudioClip, UnityEngine.AudioModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 7
+      Data: 11|Game.Scripts.Core.Common.Sound.Data.SoundData, Assembly-CSharp
+    - Name: _soundPlayerParams
+      Entry: 7
+      Data: 12|Game.Scripts.Core.Common.Sound.Data.SoundPlayerParams, Assembly-CSharp
+    - Name: _isLoop
+      Entry: 5
+      Data: false
+    - Name: _consistentMode
+      Entry: 5
+      Data: false
+    - Name: _volume
+      Entry: 4
+      Data: 1
+    - Name: _playOnAwake
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: _soundList
+      Entry: 7
+      Data: 13|System.Collections.Generic.List`1[[UnityEngine.AudioClip, UnityEngine.AudioModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 7
+      Data: 14|Game.Scripts.Core.Common.Sound.Data.SoundData, Assembly-CSharp
+    - Name: _soundPlayerParams
+      Entry: 7
+      Data: 15|Game.Scripts.Core.Common.Sound.Data.SoundPlayerParams, Assembly-CSharp
+    - Name: _isLoop
+      Entry: 5
+      Data: false
+    - Name: _consistentMode
+      Entry: 5
+      Data: false
+    - Name: _volume
+      Entry: 4
+      Data: 0.52
+    - Name: _playOnAwake
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: _soundList
+      Entry: 7
+      Data: 16|System.Collections.Generic.List`1[[UnityEngine.AudioClip, UnityEngine.AudioModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 7
+      Data: 17|Game.Scripts.Core.Common.Sound.Data.SoundData, Assembly-CSharp
+    - Name: _soundPlayerParams
+      Entry: 7
+      Data: 18|Game.Scripts.Core.Common.Sound.Data.SoundPlayerParams, Assembly-CSharp
+    - Name: _isLoop
+      Entry: 5
+      Data: false
+    - Name: _consistentMode
+      Entry: 5
+      Data: false
+    - Name: _volume
+      Entry: 4
+      Data: 1
+    - Name: _playOnAwake
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: _soundList
+      Entry: 7
+      Data: 19|System.Collections.Generic.List`1[[UnityEngine.AudioClip, UnityEngine.AudioModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 6
+    - Name: $v
+      Entry: 7
+      Data: 20|Game.Scripts.Core.Common.Sound.Data.SoundData, Assembly-CSharp
+    - Name: _soundPlayerParams
+      Entry: 7
+      Data: 21|Game.Scripts.Core.Common.Sound.Data.SoundPlayerParams, Assembly-CSharp
+    - Name: _isLoop
+      Entry: 5
+      Data: false
+    - Name: _consistentMode
+      Entry: 5
+      Data: false
+    - Name: _volume
+      Entry: 4
+      Data: 1
+    - Name: _playOnAwake
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: _soundList
+      Entry: 7
+      Data: 22|System.Collections.Generic.List`1[[UnityEngine.AudioClip, UnityEngine.AudioModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
