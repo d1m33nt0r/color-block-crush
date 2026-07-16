@@ -1,5 +1,17 @@
 # Color Block Crush
 
+## Gameplay Demo
+
+<p align="center">
+  <img src="Assets/Demo/gameplay.gif" width="80%" alt="Gameplay Demo">
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/shorts/HuV__DcZoq0">
+    Watch full gameplay video
+  </a>
+</p>
+
 Unity implementation of a hyper-casual color block puzzle/shooter inspired by
 `Color Block Crush`. The project was created as a test task and focuses on a
 data-driven level setup, modular gameplay code, Zenject factories, DOTween
@@ -236,6 +248,10 @@ Menu path:
 Tools/Block Crush/Level JSON Editor
 ```
 
+<p align="center">
+  <img src="Assets/Demo/blocks_editor.png" width="49%">
+</p>
+
 Features:
 
 - create a new block level;
@@ -255,6 +271,10 @@ Menu path:
 ```text
 Tools/Block Crush/Cannon JSON Editor
 ```
+
+<p align="center">
+  <img src="Assets/Demo/cannons_editor.png" width="49%">
+</p>
 
 Features:
 
