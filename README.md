@@ -2,7 +2,15 @@
 
 ## Gameplay Demo
 
-[Watch full gameplay video](https://www.youtube.com/shorts/HuV__DcZoq0)
+<p align="center">
+  <img src="Assets/Demo/gameplay.png" width="80%">
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/shorts/HuV__DcZoq0">
+    Watch full gameplay video
+  </a>
+</p>
 
 Unity implementation of a hyper-casual color block puzzle/shooter inspired by
 `Color Block Crush`. The project was created as a test task and focuses on a
